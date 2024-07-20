@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>extratone's airports (any)</name>
+    <description>
+      Airports visited by OurAirports member <a
+      href="https://ourairports.com/members/extratone/">extratone</a>.
+    </description>
+    <Style id="closed">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/closed-airport-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Style id="large_airport">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/large-airport-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Style id="medium_airport">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/medium-airport-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Style id="small_airport">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/small-airport-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Style id="heliport">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/heliport-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Style id="seaplane_base">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/seaplane-base-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Style id="balloonport">
+      <IconStyle>
+	<Icon>
+	  <href>https://ourairports.com/images/maps/balloonport-marker.png</href>
+	</Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>MU77</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/MU77/">Aero Britton Airport</a></strong> (passenger)<br />
+	Fayette, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/MU77/visitors.html">2 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.730698,39.1292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AMW, KAMW</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KAMW/">Ames Municipal Airport</a></strong> (passenger)<br />
+	Ames, 
+	<a href="https://ourairports.com/countries/US/IA/">Iowa</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KAMW/visitors.html">20 visitors</a> | <a href="https://ourairports.com/airports/KAMW/comments.html">2 comments</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-93.621803,41.992001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO74</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/MO74/">Cedar Creek Airport</a></strong> (passenger)<br />
+	Columbia, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/MO74/visitors.html">1 visitor</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.163676,38.919443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COU, KCOU</name>
+      <styleUrl>#medium_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KCOU/">Columbia Regional Airport</a></strong> (passenger)<br />
+	Columbia, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KCOU/visitors.html">40 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.219597,38.8181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFTT, FTT</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KFTT/">Elton Hensley Memorial Airport</a></strong> (passenger)<br />
+	Fulton, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KFTT/visitors.html">11 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.00260162353516,38.83810043334961,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO88</name>
+      <styleUrl>#closed</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/MO88/">Feutz Airport</a></strong> (passenger)<br />
+	Hatton, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/MO88/visitors.html">1 visitor</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.008762,39.097093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OSB, K15</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KK15/">Grand Glaize Osage Beach Airport</a></strong> (passenger)<br />
+	Osage Beach, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KK15/visitors.html">22 visitors</a> | <a href="https://ourairports.com/airports/KK15/comments.html">1 comment</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.680496,38.1105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MO30</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/MO30/">Harbour Airport</a></strong> (passenger)<br />
+	Gravois Mills, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/MO30/visitors.html">1 visitor</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.8115,38.269901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JEF, KJEF</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KJEF/">Jefferson City Memorial Airport</a></strong> (passenger)<br />
+	Jefferson City, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KJEF/visitors.html">26 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.15609741210001,38.5912017822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KVER, VER</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KVER/">Jesse Viertel Memorial Airport</a></strong> (passenger)<br />
+	Boonville, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KVER/visitors.html">12 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.682701,38.946701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AIZ, KAIZ</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KAIZ/">Lee C Fine Memorial Airport</a></strong> (passenger)<br />
+	Kaiser Lake Ozark, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KAIZ/visitors.html">15 visitors</a> | <a href="https://ourairports.com/airports/KAIZ/comments.html">1 comment</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.54949951170002,38.0960006714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBY, KMBY</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KMBY/">Omar N Bradley Airport</a></strong> (passenger)<br />
+	Moberly, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KMBY/visitors.html">14 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.428365,39.464393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11MO</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/11MO/">Redgate Ranch Airport</a></strong> (passenger)<br />
+	Williamsburg, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/11MO/visitors.html">1 visitor</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-91.63520050048828,38.90169906616211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUS, KSUS</name>
+      <styleUrl>#medium_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KSUS/">Spirit of St Louis Airport</a></strong> (passenger)<br />
+	St Louis, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KSUS/visitors.html">42 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-90.652,38.662102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSET, SET</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KSET/">St Charles County Regional Airport/Smartt Field</a></strong> (passenger)<br />
+	St Charles, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KSET/visitors.html">13 visitors</a> | <a href="https://ourairports.com/airports/KSET/comments.html">1 comment</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-90.43,38.929699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STL, KSTL</name>
+      <styleUrl>#large_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KSTL/">St Louis Lambert International Airport</a></strong> (passenger)<br />
+	St Louis, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KSTL/visitors.html">459 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-90.370003,38.748697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MU32</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/MU32/">Sugar Branch Airport</a></strong> (passenger)<br />
+	Columbia, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/MU32/visitors.html">1 visitor</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.447923,38.951575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KFYG, FYG</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/KMO6/">Washington Regional Airport</a></strong> (passenger)<br />
+	Washington, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/KMO6/visitors.html">9 visitors</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-90.993797,38.587601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MU23</name>
+      <styleUrl>#small_airport</styleUrl>
+      <description>
+<![CDATA[
+	<strong><a href="https://ourairports.com/airports/MU23/">White Cloud Flying Field</a></strong> (passenger)<br />
+	Columbia, 
+	<a href="https://ourairports.com/countries/US/MO/">Missouri</a>, 
+	<a href="https://ourairports.com/countries//">United States</a><br />
+	(<a href="https://ourairports.com/airports/MU23/visitors.html">1 visitor</a>)
+]]>
+      </description>
+      <Point>
+	<coordinates>-92.393303,39.030736,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

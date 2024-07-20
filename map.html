@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<!-- not currently used -->
+
+<html>
+
+  <head>
+    <title>OurAirports: embeddable map</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="/js/lib/leaflet/leaflet.css"/>
+    <link rel="stylesheet" href="/css/embedded.css"/>
+  </head>
+
+  <body class="embedded">
+
+    <div id="map">
+      Loading map...
+    </div>
+
+    <div id="map-controls" class="btn-group btn-group-justified">
+                  <a href="?role=pilot" class="btn btn-link btn-xs">
+        <span class="glyphicon glyphicon-filter"></span>
+        Pilot only
+      </a>
+                  <a href="?role=passenger" class="btn btn-link btn-xs">
+        <span class="glyphicon glyphicon-filter"></span>
+        Passenger only
+      </a>
+          </div>
+
+    <script type="text/javascript">
+      window.onload = function () {
+                oamap.props.bounds = [
+          [36.0960006714, -95.621803],
+          [43.992001, -88.370003]
+        ];
+        oamap.props.selected_member = 'extratone';
+        oamap.props.role = 'any';
+        oamap.setup();
+        oamap.setMapView();
+      };
+    </script>
+    <script src="/js/lib/leaflet/leaflet.js"></script>
+    <script src="/js/oamap.js" type="text/javascript"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="/js/lib/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/js/lib/bootstrap.min.js"></script>
+<script src="/js/general.js" type="text/javascript"></script>
+<script src="/js/lib/leaflet/leaflet.js"></script>
+
+  </body>
+
+</html>
